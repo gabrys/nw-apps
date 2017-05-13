@@ -1,0 +1,9 @@
+{
+  "name": "Google_Sheets",
+  "version": "0.0.1",
+  "main": "https://docs.google.com/spreadsheets/",
+  "window": {
+    "width": 1920,
+    "height": 1080
+  }
+}

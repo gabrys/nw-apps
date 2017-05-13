@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Splitwise
+Path=/home/quake/git/facebook-nw
+Exec=yarn run nw apps/Splitwise
+Icon=/home/quake/git/facebook-nw/apps/Splitwise/icon.png
+Type=Application
+Terminal=false

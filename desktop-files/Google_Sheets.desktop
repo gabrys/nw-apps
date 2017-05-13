@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Google Sheets
+Path=/home/quake/git/facebook-nw
+Exec=yarn run nw apps/Google_Sheets
+Icon=/home/quake/git/facebook-nw/apps/Google_Sheets/icon.png
+Type=Application
+Terminal=false

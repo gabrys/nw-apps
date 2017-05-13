@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Google Calendar
+Path=/home/quake/git/facebook-nw
+Exec=yarn run nw apps/Google_Calendar
+Icon=/home/quake/git/facebook-nw/apps/Google_Calendar/icon.png
+Type=Application
+Terminal=false

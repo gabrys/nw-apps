@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Google Keep
+Path=/home/quake/git/facebook-nw
+Exec=yarn run nw apps/Google_Keep
+Icon=/home/quake/git/facebook-nw/apps/Google_Keep/icon.png
+Type=Application
+Terminal=false
