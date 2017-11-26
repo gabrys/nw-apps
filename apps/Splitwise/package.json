@@ -1,7 +1,7 @@
 {
   "name": "Splitwise",
   "version": "0.0.1",
-  "main": "https://www.splitwise.com/",
+  "main": "main.html?https,www.splitwise.com/",
   "window": {
     "width": 1200,
     "height": 900

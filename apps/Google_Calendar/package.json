@@ -1,7 +1,7 @@
 {
   "name": "Google_Calendar",
   "version": "0.0.1",
-  "main": "https://calendar.google.com/",
+  "main": "main.html?https,calendar.google.com/",
   "window": {
     "width": 900,
     "height": 900

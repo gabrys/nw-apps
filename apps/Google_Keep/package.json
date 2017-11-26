@@ -1,7 +1,7 @@
 {
   "name": "Google_Keep",
   "version": "0.0.1",
-  "main": "https://keep.google.com/",
+  "main": "main.html?https,keep.google.com/",
   "window": {
     "width": 900,
     "height": 900

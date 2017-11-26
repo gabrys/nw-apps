@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Facebook
-Path=/home/quake/git/facebook-nw
+Path=/home/quake/git/nw-apps
 Exec=yarn run nw apps/Facebook
-Icon=/home/quake/git/facebook-nw/apps/Facebook/icon.png
+Icon=/home/quake/git/nw-apps/apps/Facebook/icon.png
 Type=Application
 Terminal=false
