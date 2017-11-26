@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/png">
 <body style="margin: 0">
 <iframe style="border: 0; height: 100%; position: fixed; width: 100%"
     nwfaketop nwdisable></iframe>
@@ -10,4 +11,5 @@ var gui = require('nw.gui'),
     nwWindow = gui.Window.get().on('new-win-policy', newWinPolicy),
     url = location.search.replace('?', '').replace(',', '://');
 document.querySelector('iframe').src = url;
+document.querySelector('link').href = 'icon.png?' + Math.random();
 </script>
