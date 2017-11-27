@@ -1,5 +1,5 @@
 {
-  "name": "Google_Sheets",
+  "name": "Google Sheets",
   "version": "0.0.1",
   "main": "main.html?https,docs.google.com/spreadsheets/",
   "window": {

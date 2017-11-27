@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Google Maps
+Path=/home/quake/git/nw-apps
+Exec=yarn run nw apps/Google_Maps
+Icon=/home/quake/git/nw-apps/apps/Google_Maps/icon.png
+Type=Application
+Terminal=false

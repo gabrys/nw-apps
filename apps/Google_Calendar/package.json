@@ -1,5 +1,5 @@
 {
-  "name": "Google_Calendar",
+  "name": "Google Calendar",
   "version": "0.0.1",
   "main": "main.html?https,calendar.google.com/",
   "window": {

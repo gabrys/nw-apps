@@ -1,0 +1,9 @@
+{
+  "name": "Google Maps",
+  "version": "0.0.1",
+  "main": "main.html?https,maps.google.com/",
+  "window": {
+    "width": 1200,
+    "height": 900
+  }
+}

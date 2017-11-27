@@ -1,5 +1,5 @@
 {
-  "name": "Google_Keep",
+  "name": "Google Keep",
   "version": "0.0.1",
   "main": "main.html?https,keep.google.com/",
   "window": {
