@@ -1,7 +1,8 @@
 {
   "name": "Facebook",
   "version": "0.0.1",
-  "main": "main.html?https,facebook.com/",
+  "main": "main.html",
+  "url": "https://facebook.com/",
   "window": {
     "width": 1200,
     "height": 900

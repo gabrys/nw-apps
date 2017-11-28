@@ -4,4 +4,5 @@ setup:
 	yarn
 
 desktops:
+	@./copy-main.sh
 	@./gen-desktops.sh

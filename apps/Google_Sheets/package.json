@@ -1,7 +1,8 @@
 {
   "name": "Google Sheets",
   "version": "0.0.1",
-  "main": "main.html?https,docs.google.com/spreadsheets/",
+  "main": "main.html",
+  "url": "https://docs.google.com/spreadsheets/",
   "window": {
     "width": 1920,
     "height": 1080

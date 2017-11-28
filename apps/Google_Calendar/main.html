@@ -9,7 +9,7 @@ var gui = require('nw.gui'),
         policy.ignore();
     },
     nwWindow = gui.Window.get().on('new-win-policy', newWinPolicy),
-    url = location.search.replace('?', '').replace(',', '://');
+    url = gui.App.manifest.url;
 document.querySelector('iframe').src = url;
 document.querySelector('link').href = 'icon.png?' + Math.random();
 </script>
